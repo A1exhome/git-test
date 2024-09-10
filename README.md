@@ -1,2 +1,1 @@
-111
-# git-test
+new smart text
